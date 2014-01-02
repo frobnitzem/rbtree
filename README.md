@@ -12,5 +12,7 @@ way to store that information on the call stack.
 
 = Example:
 
-  
+  There is an example implementation using structs holding
+integers named 'test' in the top-level dir, along
+with some great display code using dotty from (www.graphviz.org)[GraphViz].
 
