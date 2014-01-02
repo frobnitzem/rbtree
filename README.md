@@ -1,4 +1,4 @@
-= rbtree - a C library implementing red/black trees
+# rbtree - a C library implementing red/black trees
 
   This code implements a clean API for working with
 mutable red/black trees.  It's unique in working with the
@@ -10,9 +10,9 @@ black (off) or red (on) node coloring.
 used by the library are written in a creative, recursive
 way to store that information on the call stack.
 
-= Example:
+# Example:
 
   There is an example implementation using structs holding
 integers named 'test' in the top-level dir, along
-with some great display code using dotty from (www.graphviz.org)[GraphViz].
+with some great display code using dotty from [www.graphviz.org](GraphViz).
 
